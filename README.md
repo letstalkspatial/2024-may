@@ -9,6 +9,14 @@ Koushik on [A Deep Learning Based Approach For Farm Boundary Detection](https://
 
 
 
+
+
+
+| ![group_photo](https://github.com/letstalkspatial/2024-may/assets/119618422/5c99d89d-54f5-4d6c-8f58-f67eec2fad55) | ![lets talk spatial](https://github.com/letstalkspatial/2024-may/assets/119618422/65cc48d4-a426-4438-b79f-248e0c281955) |
+|-------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+
+
+
 Archive
 ---
 Spatial Talks and Network #16
