@@ -1,5 +1,14 @@
 
 
+Slides
+
+Sumesh on [Multimodal Vector Search for geospatial Intelligence](https://docs.google.com/presentation/d/1xkD95WX3ODt_naTff11VCI-fTMY5xDqoKrTe5L8_sPE/edit?usp=sharing)
+
+
+Koushik on [A Deep Learning Based Approach For Farm Boundary Detection](https://docs.google.com/presentation/d/1hRKjI-YBu8GXYMYCTxFPC62_yhMGOHUy6cqPlVp6hzE/edit?usp=sharing)
+
+
+
 Archive
 ---
 Spatial Talks and Network #16
